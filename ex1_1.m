@@ -3,3 +3,4 @@ plot(x,sin(x),x,cos(x));
 hold on
 plot(x,x.^1.1)
 plot(x,x.^1.2)
+plot(x,x.^1.3)
